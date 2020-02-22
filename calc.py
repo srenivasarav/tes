@@ -1,5 +1,5 @@
 if(i<j):
-pass
+return i+j;
 if(i>j):
 pass
 if(i!=j):
