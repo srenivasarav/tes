@@ -4,5 +4,5 @@ if(i>j):
 pass
 if(i!=j):
 pass
-if(i==j):
+if(i==j);
 pass
